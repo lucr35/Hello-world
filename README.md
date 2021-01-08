@@ -1,2 +1,3 @@
 # Hello-world
-this is my first repo
+Hi Human,
+It's me Luc, how are you?
